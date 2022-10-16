@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DoNation</string>
+    <string name="submit">Submit</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string-array name="dropdown">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Extra Large</item>
+    </string-array>
+</resources>

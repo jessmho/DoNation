@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="texttitle" type="id" />
+    <item name="name" type="id" />
+    <item name="phone" type="id" />
+    <item name="email" type="id" />
+    <item name="btnInsert" type="id" />
+    <item name="btnUpdate" type="id" />
+    <item name="btnDelete" type="id" />
+    <item name="btnView" type="id" />
+</resources>
